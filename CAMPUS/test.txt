@@ -1,1 +1,1 @@
-gsffs
+Some python scripts for Eurosmart CAMPUS
